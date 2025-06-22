@@ -1,8 +1,20 @@
 # MACHINE-LEARNING-MODEL-IMPLEMENTATION
 
-     
+*COMPANY*: CODTECH IT SOLUTIONS
 
-For Task 4 of the CodTech Python Internship, I was assigned the development of a **machine learning predictive model** using Python. The task required implementing a classification or prediction algorithm using the **Scikit-learn** library, which is one of the most widely used machine learning frameworks in Python. The goal was to work with a structured dataset, apply preprocessing techniques, train a machine learning model, and evaluate its performance. This task helped simulate the real-world scenario of building an end-to-end predictive system that can analyze data and generate intelligent outcomes, which is a key skill for anyone aspiring to work in data science or artificial intelligence.
+*NAME*: GOWTHAM N
+
+*INTERN ID*: CT04DF178
+
+*DOMAIN*: PYTHON
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH KUMAR
+
+*DESCRIPTION*:
+
+     For Task 4 of the CodTech Python Internship, I was assigned the development of a **machine learning predictive model** using Python. The task required implementing a classification or prediction algorithm using the **Scikit-learn** library, which is one of the most widely used machine learning frameworks in Python. The goal was to work with a structured dataset, apply preprocessing techniques, train a machine learning model, and evaluate its performance. This task helped simulate the real-world scenario of building an end-to-end predictive system that can analyze data and generate intelligent outcomes, which is a key skill for anyone aspiring to work in data science or artificial intelligence.
 
 To begin with, I selected a publicly available dataset for a **classification problem**. One of the most suitable datasets for such a task is the **Breast Cancer Wisconsin dataset**, which contains multiple medical attributes (such as mean radius, mean texture, mean perimeter, etc.) and classifies whether a tumor is benign or malignant. This dataset is already available in the Scikit-learn datasets module, making it easy to load and work with. I used `pandas` and `NumPy` for data loading and manipulation, and `matplotlib` or `seaborn` for data visualization to understand feature distributions and detect any imbalances or anomalies in the data. After loading the dataset, I explored its structure using methods like `.describe()`, `.info()`, and correlation matrices. I visualized the relationship between features and the target variable using pair plots and heatmaps. This exploratory data analysis (EDA) helped me identify which features were most relevant and whether any preprocessing was required. I then performed **data preprocessing**, which involved scaling the features using **StandardScaler** to ensure all attributes contributed equally to the model. I also split the dataset into training and testing sets using the `train_test_split()` function, typically using an 80:20 or 70:30 ratio.
 
