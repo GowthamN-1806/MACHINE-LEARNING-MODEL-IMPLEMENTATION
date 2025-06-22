@@ -12,5 +12,8 @@ In conclusion, Task 4 gave me valuable experience in building a real-world machi
 
 ![image](https://github.com/user-attachments/assets/e0cf490e-5146-4ce0-83b3-c97c5498dbbd)
 
+![image](https://github.com/user-attachments/assets/f3ffa3a7-ce9b-49ec-971b-5a7f52506ee9)
+
+
 
 
